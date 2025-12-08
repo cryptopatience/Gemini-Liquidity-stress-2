@@ -13,7 +13,7 @@ warnings.filterwarnings('ignore')
 # 페이지 설정
 # ============================================================
 st.set_page_config(
-    page_title="연준 유동성 스트레스 모니터링",
+    page_title="매크로 유동성(선행지표)",
     page_icon="🏦",
     layout="wide",
     initial_sidebar_state="expanded"
